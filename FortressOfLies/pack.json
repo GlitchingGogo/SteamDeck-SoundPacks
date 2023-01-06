@@ -1,0 +1,10 @@
+{
+  "name": "Fortress of Lies",
+  "description": "Fortress of Lies from NieR:Automata, composed by Keiichi Okabe",
+  "author": "GlitchingGogo",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
